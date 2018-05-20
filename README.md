@@ -1,5 +1,5 @@
 # Cats-vs-Dogs_Classifier
-#The newest version of Matlab (R2017b) is required to run the code in this folder.
+The newest version of Matlab (R2017b) is required to run the code in this folder.
 In order to set up the cats vs. dogs dataset, you must partition the dataset into 2
 subfolders labeled 'cat' and 'dog' with their respective pictures with the Kaggle
 Training folder. You will also have to check to make sure that the image data store is
